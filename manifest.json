@@ -4,7 +4,7 @@
   "mcVersion": "1.21.1",
   "loader": {
     "kind": "fabric",
-    "version": "0.16.9"
+    "version": "0.20.1"
   },
   "manifest": {
     "version": "1.0.0",
