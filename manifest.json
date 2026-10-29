@@ -11,205 +11,205 @@
     "files": [
       {
         "path": "mods/architectury-13.0.8.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/architectury-13.0.8.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/architectury-13.0.8.jar.enc",
         "sha256": "d52a93a2ae4d3f46ba280827608db07a665e78a0cc4195aa108fd245b35af935",
         "size": 600943
       },
       {
         "path": "mods/Axiom-6.1.3-for-MC1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/Axiom-6.1.3-for-MC1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/Axiom-6.1.3-for-MC1.21.1.jar.enc",
         "sha256": "25a78547f4d14bcffc1c66a4710f2bbb38c495a3c7befc35f486208af09d6faa",
         "size": 47178019
       },
       {
         "path": "mods/blossom-1.1.10-1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/blossom-1.1.10-1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/blossom-1.1.10-1.21.1.jar.enc",
         "sha256": "3250f608cb47a80c57f7cbd8ab006c5d90f8d069202bb00791f2cc3d2632e9d8",
         "size": 9121133
       },
       {
         "path": "mods/brrp_v1-1.0.4.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/brrp_v1-1.0.4.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/brrp_v1-1.0.4.jar.enc",
         "sha256": "a0f3d4dc74afd49811490c05f228e18641c8c0df83af1892930b51af03988fbe",
         "size": 200659
       },
       {
         "path": "mods/cloth-config-15.0.140.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/cloth-config-15.0.140.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/cloth-config-15.0.140.jar.enc",
         "sha256": "81b4100b7a0e3d233d97f335e70708733b7f7aadb701a57b701764ca6ac6b6ee",
         "size": 1157194
       },
       {
         "path": "mods/cuca-0.6.0+1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/cuca-0.6.0%2B1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/cuca-0.6.0%2B1.21.1.jar.enc",
         "sha256": "7f07798cdd1694215a55b0def7a2719122882b841180534fff860500ca6522f9",
         "size": 6604
       },
       {
         "path": "mods/entityculling-1.8.2.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/entityculling-1.8.2.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/entityculling-1.8.2.jar.enc",
         "sha256": "a6ec6a23149f84eb8ff194826c3cd68ea4ad923cccb9d2f154c221337822f7d8",
         "size": 469221
       },
       {
         "path": "mods/Essential Dependencies.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/Essential%20Dependencies.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/Essential%20Dependencies.jar.enc",
         "sha256": "4f70e60ef36cb0bc62dc9e4afe89e63ea63f55a558d4f28d9d6f834efa6abb06",
         "size": 7619634
       },
       {
         "path": "mods/Essential_1-5-1_fabric_1-21-1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/Essential_1-5-1_fabric_1-21-1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/Essential_1-5-1_fabric_1-21-1.jar.enc",
         "sha256": "ce672e3a0842bea2783c095effb10bdabd876d5f03df4020fe3f5ed31177745a",
         "size": 52760304
       },
       {
         "path": "mods/fabric-api-0.115.0+1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/fabric-api-0.115.0%2B1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/fabric-api-0.115.0%2B1.21.1.jar.enc",
         "sha256": "5afd3849a2f299f089913e7cf5ff8f30a73f63c97a28eaa3e9cf5d3beb4213ad",
         "size": 2367395
       },
       {
         "path": "mods/fabric-api-0.116.17+1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/fabric-api-0.116.17%2B1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/fabric-api-0.116.17%2B1.21.1.jar.enc",
         "sha256": "9527b72dfdd2b2b863d5f7107bdd7fb9a93f40ad59365afc6df59bb3aeb7480d",
         "size": 2452763
       },
       {
         "path": "mods/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar.enc",
         "sha256": "4fcb243751771815ba0b3e796f17bfe02b6bed35f0b29f446f24d5f51ee974fd",
         "size": 7159179
       },
       {
         "path": "mods/fancymenu-3.5.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/fancymenu-3.5.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/fancymenu-3.5.0.jar.enc",
         "sha256": "b5f8cdc13c7f82b590485a30723dd415869eafcfc795477e87b3648ce9b9ea79",
         "size": 3363964
       },
       {
         "path": "mods/geckolib-4.7.6.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/geckolib-4.7.6.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/geckolib-4.7.6.jar.enc",
         "sha256": "64ce0d10b60457a69c368c59b117a25b2f02b8ec448b763f24d651fe9e7f7a25",
         "size": 624119
       },
       {
         "path": "mods/Gulag-Limbo-1.0.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/Gulag-Limbo-1.0.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/Gulag-Limbo-1.0.0.jar.enc",
         "sha256": "ac6eea57adfa19e4ff55055b4a9b334cba3535dfb4ab4bb5c51f14311778574e",
         "size": 206921
       },
       {
         "path": "mods/ImmediatelyFast-Fabric-1.6.14+1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/ImmediatelyFast-Fabric-1.6.14%2B1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/ImmediatelyFast-Fabric-1.6.14%2B1.21.1.jar.enc",
         "sha256": "6195c6460eb0d8b16eb25412024fd91221ebe0c3d2c359803b8b2ebabd005bb0",
         "size": 340194
       },
       {
         "path": "mods/konkrete-1.9.9.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/konkrete-1.9.9.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/konkrete-1.9.9.jar.enc",
         "sha256": "79f230d5934bbb6dfb43827ab98d2033edfd9374dc4cb9da7551b097d12e021e",
         "size": 786723
       },
       {
         "path": "mods/lithium-0.15.0+mc1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/lithium-0.15.0%2Bmc1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/lithium-0.15.0%2Bmc1.21.1.jar.enc",
         "sha256": "90fb1cc58854273030680ebec4cdc96c9ed7768362c459753c658d746fd2fa80",
         "size": 771796
       },
       {
         "path": "mods/melody_fabric_1.0.10_MC_1.21.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/melody_fabric_1.0.10_MC_1.21.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/melody_fabric_1.0.10_MC_1.21.jar.enc",
         "sha256": "c89488e037345a0f8f3ec05d47ab5f4a3cc09e9b3d5285f3dca5fb4d40cbc171",
         "size": 188063
       },
       {
         "path": "mods/modernfix-5.24.0+mc1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/modernfix-5.24.0%2Bmc1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/modernfix-5.24.0%2Bmc1.21.1.jar.enc",
         "sha256": "6968132170e1d66982aa7b5f857c002514d9d0f2d7fc7cbd51ece4f82c126406",
         "size": 460262
       },
       {
         "path": "mods/pehkui-3.8.3+1.14.4-1.21.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/pehkui-3.8.3%2B1.14.4-1.21.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/pehkui-3.8.3%2B1.14.4-1.21.jar.enc",
         "sha256": "242a5127382dbb753997ca10acda367ac331e929d092cbb7eb7aca20621f8bed",
         "size": 555069
       },
       {
         "path": "mods/PlayerAnimations-1.0.0-reborn-1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/PlayerAnimations-1.0.0-reborn-1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/PlayerAnimations-1.0.0-reborn-1.21.1.jar.enc",
         "sha256": "9af2a461ddbb651548b191d95d3c06e6c57d08ec07be2e754a236de32e113e34",
         "size": 296653
       },
       {
         "path": "mods/reeses-sodium-options-1.8.3+mc1.21.4.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/reeses-sodium-options-1.8.3%2Bmc1.21.4.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/reeses-sodium-options-1.8.3%2Bmc1.21.4.jar.enc",
         "sha256": "90ac6467e49402255eb8baeff5cde1d5310ffbc78c8296e53a6fa9a1a98c2ecb",
         "size": 81095
       },
       {
         "path": "mods/sodium-0.6.13.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/sodium-0.6.13.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/sodium-0.6.13.jar.enc",
         "sha256": "88ce7389d33c486318bbe3e0c3cc5bc4f7bc2b2df6e395af3fe806a007be425d",
         "size": 1297789
       },
       {
         "path": "mods/sodium-extra-0.6.0+mc1.21.1.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/sodium-extra-0.6.0%2Bmc1.21.1.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/sodium-extra-0.6.0%2Bmc1.21.1.jar.enc",
         "sha256": "28edeee79244071ae597045c7e3a0aaa119223b141601dc6cf3c4ce6af5bbea1",
         "size": 373689
       },
       {
         "path": "mods/unreal-core-1.0.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/unreal-core-1.0.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/unreal-core-1.0.0.jar.enc",
         "sha256": "7b92b9328d4ab386fe5563497f036a5abbd3cd9c0781f2175e4a4c5d3eb5e45e",
         "size": 23966507
       },
       {
         "path": "mods/unreal-doors-1.0.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/unreal-doors-1.0.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/unreal-doors-1.0.0.jar.enc",
         "sha256": "66937a90cc5e9f9bfc664f9291229a0188bcd85ae25c15441d1ec3e447ad83f1",
         "size": 819045
       },
       {
         "path": "mods/unreal-economia-1.0.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/unreal-economia-1.0.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/unreal-economia-1.0.0.jar.enc",
         "sha256": "49547d71b517724baa5a1d305b09eb7beaacf05c2cd7efb88f5d4028f12e120e",
         "size": 2298541
       },
       {
         "path": "mods/unreal-items-1.0.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/unreal-items-1.0.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/unreal-items-1.0.0.jar.enc",
         "sha256": "e08a47436a6588521aeab6c4dc352c99ba4bfe6c047278b42eb9a18e5b187120",
         "size": 133993390
       },
       {
         "path": "mods/unreal-morpher-1.0.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/unreal-morpher-1.0.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/unreal-morpher-1.0.0.jar.enc",
         "sha256": "7bc3f4b250062d240f23ae4c1fcdca28d942df4a68da4c88cbfd985bf9fd2288",
         "size": 274089
       },
       {
         "path": "mods/unreal-postal-1.0.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/unreal-postal-1.0.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/unreal-postal-1.0.0.jar.enc",
         "sha256": "199503658f03b6369bdd3b712d754333bc426e1b2bf8b8dafa230d4463676097",
         "size": 14245309
       },
       {
         "path": "mods/unreal-weapons-1.0.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/unreal-weapons-1.0.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/unreal-weapons-1.0.0.jar.enc",
         "sha256": "3e29b1c67821f670a61b0331441a78ab7dd9535976ca47bb413090e76d140e63",
         "size": 67190847
       },
       {
         "path": "mods/veil-2.1.0.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/veil-2.1.0.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/veil-2.1.0.jar.enc",
         "sha256": "20657eb60e64e5aa9bb1a75059a84d4d1cb8548040907f485ed943953b345fd7",
         "size": 14464949
       },
       {
         "path": "mods/worldedit-mod-7.3.8.jar.enc",
-        "url": "https://raw.githubusercontent.com/ArturoDev-UnrealStudios/mods/main/mods/worldedit-mod-7.3.8.jar.enc",
+        "url": "https://media.githubusercontent.com/media/ArturoDev-UnrealStudios/mods/main/mods/worldedit-mod-7.3.8.jar.enc",
         "sha256": "1b86db40acf0c3725bfabf5f22159b73156077c68db338e6d9475d4fa8430ced",
         "size": 6222882
       }
