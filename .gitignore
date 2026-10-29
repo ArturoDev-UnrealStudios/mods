@@ -1,0 +1,6 @@
+# Blindaje de Seguridad HexaLauncher
+# Solo se permite subir mods encriptados (.jar.enc), configs y manifest.json
+*.jar
+*.key
+*clave*
+*.txt
